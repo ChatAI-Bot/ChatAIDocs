@@ -32,3 +32,5 @@ To change language use **/setlang**.
 
 ## Support:
 If you encounter any issues or have questions about ChatAI, please contact our support team at [Support](https://discord.gg/dfZaHBwptB).
+
+© ChatAI 2023 - Developed by ! Cooky.#2312
